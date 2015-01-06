@@ -1,6 +1,4 @@
 hello-world
 ===========
 
-asdasd
-asdasd
-asdasd
+This is a branch edit
